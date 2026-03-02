@@ -18,5 +18,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="width:50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width:50px" />      
 </div>
-<h2>GitHub Overview</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=theuFaria&theme=tokyonight"></img>
